@@ -6,8 +6,15 @@
 
 ![Logo de FrontPage][Logo de FrontPage]
 
+### ¿Que función tiene?
+
+Microsoft FrontPage fue un editor de páginas web que se utilizaba para la creación y gestión de sitios web. Las funciones principales de FrontPage son las siguientes:
+
+- <p style="text-decoration: underline;"Creación visual de paginas web: </p> FrontPage proporcionaba una interfaz gráfica de usuario que permitía a los usuarios diseñar páginas web de manera visual.
+
+
+
+
 <!--Apartado para el logo de FrontPage-->
 
 [Logo de FrontPage]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-FrontPage-DelgadoIvan/blob/main/Imagenes/Logo%20FrontPage.png?raw=true "FrontPage"
-
-
