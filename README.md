@@ -28,3 +28,5 @@
 [Logo de FrontPage]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-FrontPage-DelgadoIvan/blob/main/Imagenes/Logo%20FrontPage.png?raw=true "FrontPage"
 
 [Logo HTML]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-FrontPage-DelgadoIvan/blob/main/Imagenes/Logo%20HTML.png?raw=true
+
+[Logo Microsoft Office]: 
