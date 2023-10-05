@@ -8,10 +8,16 @@
 
 ### ¿Que función tiene?
 
-Microsoft FrontPage fue un editor de páginas web que se utilizaba para la creación y gestión de sitios web. Las funciones principales de FrontPage son las siguientes:
+<p style="text-align: justify;"> Microsoft FrontPage fue un editor de páginas web que se utilizaba para la creación y gestión de sitios web. Las funciones principales de FrontPage son las siguientes:
 
-- <p style="text-decoration: underline;"Creación visual de paginas web: </p> FrontPage proporcionaba una interfaz gráfica de usuario que permitía a los usuarios diseñar páginas web de manera visual.
+- <p style="text-decoration: underline;"</p> Creacion visual de paginas web: 
+<p style="text-align: justify;"> FrontPage proporcionaba una interfaz gráfica de usuario que permitía a los usuarios diseñar páginas web de manera visual.
 
+- <p style="text-decoration: underline;"</p> Edición de código HTML:
+<p style="text-align: justify;"> Aunque estaba diseñado para usuarios sin experiencia en programación, FrontPage también permitía la edición directa del código HTML.
+
+- <p style="text-decoration: underline;"</p> Integración con Microsoft Office:
+<p style="text-align: justify;"> FrontPage estaba integrado con otras aplicaciones de Microsoft Office, como Word y Excel.
 
 
 
