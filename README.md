@@ -13,6 +13,8 @@
 - <p style="text-decoration: underline;"</p> Creacion visual de paginas web: 
 <p style="text-align: justify;"> FrontPage proporcionaba una interfaz gráfica de usuario que permitía a los usuarios diseñar páginas web de manera visual.
 
+![Logo página web][Logo Página Web]
+
 - <p style="text-decoration: underline;"</p> Edición de código HTML:
 <p style="text-align: justify;"> Aunque estaba diseñado para usuarios sin experiencia en programación, FrontPage también permitía la edición directa del código HTML.
 
@@ -30,4 +32,6 @@
 
 [Logo HTML]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-FrontPage-DelgadoIvan/blob/main/Imagenes/Logo%20HTML.png?raw=true
 
-[Logo Microsoft Office]: 
+[Logo Microsoft Office]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-FrontPage-DelgadoIvan/blob/main/Imagenes/Logo%20Office.png?raw=true
+
+[Logo Página Web]: https://github.com/ivdemo/SMX2-M8UF1A1-HistoriaWeb-1995-1996-FrontPage-DelgadoIvan/blob/main/Imagenes/Logo%20P%C3%A1gina%20Web.png?raw=true
