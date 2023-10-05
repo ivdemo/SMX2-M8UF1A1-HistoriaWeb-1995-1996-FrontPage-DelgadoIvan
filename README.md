@@ -1,1 +1,5 @@
-# SMX2-M8UF1A1-HistoriaWeb-1995-1996-FrontPage-DelgadoIvan
+# FrontPage
+
+### ¿Que es?
+
+FrontPage era un editor de páginas web de Windows.
