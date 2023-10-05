@@ -21,6 +21,7 @@
 - <p style="text-decoration: underline;"</p> Integración con Microsoft Office:
 <p style="text-align: justify;"> FrontPage estaba integrado con otras aplicaciones de Microsoft Office, como Word y Excel.
 
+![Logo de Microsoft Office][Logo Microsoft Office]
 
 
 <!--Apartado para logos e imagenes-->
