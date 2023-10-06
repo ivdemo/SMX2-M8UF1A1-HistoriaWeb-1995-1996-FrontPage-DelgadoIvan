@@ -6,7 +6,7 @@
 
 ![Logo de FrontPage][Logo de FrontPage]
 
-### ¿Que función tiene?
+### ¿Que funciones tiene?
 
 <p style="text-align: justify;"> Microsoft FrontPage fue un editor de páginas web que se utilizaba para la creación y gestión de sitios web. Las funciones principales de FrontPage son las siguientes:
 
