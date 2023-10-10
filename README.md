@@ -2,7 +2,7 @@
 
 ### ¿Que es?
 
-<p style="text-align: justify;"> Microsoft FrontPage fue una aplicación de software desarrollada por Microsoft diseñada para facilitar la creación y administración de sitios web. Durante los años 90 y principios de los 2000, se destacó como un editor de páginas web popular. No obstante, en 2006, Microsoft decidió discontinuar FrontPage, lo que significa que dejó de recibir actualizaciones y soporte. Desde entonces, no se ofrece asistencia técnica para este software.</p>
+<span style="text-align: justify;"> Microsoft FrontPage fue una aplicación de software desarrollada por Microsoft diseñada para facilitar la creación y administración de sitios web. Durante los años 90 y principios de los 2000, se destacó como un editor de páginas web popular. No obstante, en 2006, Microsoft decidió discontinuar FrontPage, lo que significa que dejó de recibir actualizaciones y soporte. Desde entonces, no se ofrece asistencia técnica para este software.</p>
 
 ![Logo de FrontPage][Logo de FrontPage]
 
